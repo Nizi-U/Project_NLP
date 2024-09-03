@@ -1,22 +1,31 @@
 는 카카오톡 대화 내용을 업로드 한 후 웹 페이지에서 기간을 설정하고 분석을 클릭하면 
 &nbsp;
+
 &nbsp;
+
 1. 상대방 또는 각 인원들의 평균 답장속도
 2. 시간대 별 주고받은 대화량
 3. 최다 빈출 키워드 
 4. 감성 분석을 활용한 대화의 긍정도
 5. Chat GPT APi와 LLM 프롬프트를 활용하여 대화 내용을 분석 한 후 문제점과 고쳐야할 부분을 조언
 &nbsp;
+
 &nbsp;
+
 위의 기능들을 제공하여 사용자들의 활발한 커뮤니케이션을 돕습니다.
 &nbsp;
+
 &nbsp;
+
 개발 기간: 2024/07/01 ~ 2024/07/31
 도메인: 대화 분석 및 주제 추천 시스템
 사용 데이터: AI HUB 말뭉치
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 ![슬라이드12](https://github.com/user-attachments/assets/bf0916f4-8a37-4c9d-a66e-1a8e3f84ec47)
 ![슬라이드14](https://github.com/user-attachments/assets/d3e92cef-2057-433b-9843-722521c25fb7)
 ![슬라이드15](https://github.com/user-attachments/assets/b9824c87-fc9f-440a-98d8-9fe7edd6e738)
